@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/tadashi/ros/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/tadashi/ros/src/racecar/ackermann_cmd_mux/include",
+                "/home/tadashi/ros/src/ardrone_autonomy/include",
+                "/home/tadashi/ros/src/sbgisen/cube/cube_base_local_planner/include",
+                "/home/tadashi/ros/src/clear_and_rotate_recovery/include",
+                "/home/tadashi/ros/src/sbgisen/cube/cube_control/include",
+                "/home/tadashi/ros/src/tum_simulator/cvg_sim_gazebo_plugins/include",
+                "/home/tadashi/ros/src/realsense-ros/ddynamic_reconfigure/include",
+                "/home/tadashi/ros/src/ros_controllers/diff_drive_controller/include",
+                "/home/tadashi/ros/src/mavros/libmavconn/include",
+                "/home/tadashi/ros/src/mav_comm/mav_msgs/include",
+                "/home/tadashi/ros/src/mav_comm/mav_planning_msgs/include",
+                "/home/tadashi/ros/src/mavros/mavros/include",
+                "/home/tadashi/ros/src/mavros/mavros_msgs/include",
+                "/home/tadashi/ros/src/ork_renderer/include",
+                "/home/tadashi/ros/src/tabletop/include",
+                "/home/tadashi/ros/src/quanergy_client_ros/include",
+                "/home/tadashi/ros/src/sbgisen/cube/cube_navigation_layers/range_sensor_layer/include",
+                "/home/tadashi/ros/src/realsense-ros/realsense2_camera/include",
+                "/home/tadashi/ros/src/rotors_simulator/rotors_control/include",
+                "/home/tadashi/ros/src/rotors_simulator/rotors_gazebo_plugins/include",
+                "/home/tadashi/ros/src/rotors_simulator/rotors_hil_interface/include",
+                "/home/tadashi/ros/src/rotors_simulator/rotors_joy_interface/include",
+                "/home/tadashi/ros/src/slamware_ros_sdk/include",
+                "/home/tadashi/ros/src/sbgisen/cube/cube_navigation_layers/social_navigation_layers/include",
+                "/home/tadashi/ros/src/mavros/test_mavros/include",
+                "/home/tadashi/ros/src/vesc/vesc_ackermann/include",
+                "/home/tadashi/ros/src/vesc/vesc_driver/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang-3.6",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
